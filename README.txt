@@ -11,4 +11,4 @@ Here is a list of languages/frameworks/tools/systems I will learn:
 4. Facebook - Open Graph
 5. RabbitMQ
 
-
+git commit?  git diff?
